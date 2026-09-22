@@ -1,6 +1,6 @@
 # tsd2080-oblig1
 
-## Ideer for project:
+## Ideer for prosjekt:
 - Spill library
 - Chess battle game
 - Godteri butikk
