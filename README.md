@@ -1,8 +1,8 @@
 # tsd2080-oblig1
 
-ideer for project:
+##Ideer for project:
 - Spill library
 - Chess battle game
-- godteri butikk
-- retro musikk butikk
-- robot service butikk
+- Godteri butikk
+- Retro musikk butikk
+- Robot service butikk
