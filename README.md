@@ -5,3 +5,4 @@ ideer for project:
 - Chess battle game
 - godteri butikk
 - retro musikk butikk
+- robot service butikk
