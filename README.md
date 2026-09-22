@@ -7,4 +7,3 @@
 - ~~Retro musikk butikk~~
 - ~~Robot service butikk~~
 - ~~Kirke~~
-- ~~Huh~~
