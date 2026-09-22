@@ -3,3 +3,5 @@
 ideer for project:
 - Spill library
 - Chess battle game
+- godteri butikk
+- retro musikk butikk
