@@ -6,3 +6,4 @@
 - Godteri butikk
 - Retro musikk butikk
 - Robot service butikk
+- Kirke
